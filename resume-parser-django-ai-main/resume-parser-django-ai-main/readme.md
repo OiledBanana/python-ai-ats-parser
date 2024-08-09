@@ -1,6 +1,5 @@
 
 # Django + AI Resume Parser
-https://www.youtube.com/@ridwanray
 
 # Tools & Services
 - Django
